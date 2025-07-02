@@ -10,16 +10,14 @@ Fresh graduate in Business Information Technology from Bina Nusantara University
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack & Tools
 
-| Area | Tools |
-|------|-------|
-| **Languages** | Python, SQL |
-| **Data Analysis** | Pandas, NumPy, Excel |
-| **ML & Modeling** | Scikit-learn, NLP, Time Series |
-| **Data Engineering** | Airflow, PostgreSQL, Docker |
-| **Visualization** | Tableau, Seaborn, Matplotlib |
-| **Other Tools** | Git, Jupyter, Kibana |
+- **Languages**: Python, SQL, JavaScript (basic)
+- **Data Analysis & Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Machine Learning**: Regression, Classification, Clustering, NLP
+- **Data Engineering**: Apache Airflow, PostgreSQL, ElasticSearch
+- **Visualization**: Tableau, Matplotlib, Plotly
+- **Others**: Docker, Jupyter Notebook, Git, Excel
 
 ---
 
