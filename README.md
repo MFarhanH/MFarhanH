@@ -36,7 +36,6 @@ Fresh graduate in Business Information Technology from Bina Nusantara University
 
 - 📧 Email: farhanhendriyanto7@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/m-farhan-hendriyanto](https://www.linkedin.com/in/m-farhan-hendriyanto/)  
-- 🌐 Portfolio (Coming Soon!)
 
 ---
 
