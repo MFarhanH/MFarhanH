@@ -6,8 +6,7 @@
 
 ## 🔍 About Me
 
-I'm a fresh graduate from a Hacktiv8 bootcampcFulltime Data Science program with a prior internship as a **Data Analyst**, and I’m excited to dive deeper into building solutions through data.  
-With hands-on experience in **machine learning**, **ETL automation**, and **data visualization**, I enjoy solving real-world problems with a data-driven mindset.
+Fresh graduate in Business Information Technology from Bina Nusantara University with experience in marketing, operations, and data. I began my career as a Marketing & Admissions Officer, continued as a Data Analyst Intern, and later worked as an Operational Staff at a travel company. I recently completed a Data Science program at Hacktiv8 and am now focusing on roles in **data analysis**, **data science**, and **data engineering**. I have skills in Python, SQL, and data visualization, and I am currently exploring AI and machine learning fundamentals. I enjoy solving problems through data, working in teams, and continuously improving my technical and analytical skills. I am highly motivated to grow in the tech industry and contribute to impactful data-driven projects.
 
 ---
 
@@ -19,23 +18,6 @@ With hands-on experience in **machine learning**, **ETL automation**, and **data
 - **Data Engineering**: Apache Airflow, PostgreSQL, ElasticSearch
 - **Visualization**: Tableau, Matplotlib, Plotly
 - **Others**: Docker, Jupyter Notebook, Git, Excel
-
----
-
-## 🚀 Projects
-
-Here are a few featured projects from my repositories:
-
-### 🔹 [Delivery Agent Performance Classification](https://github.com/MFarhanH/Delivery-Agent-Performance-Classification)
-Classifies delivery agent performance based on customer feedback using NLP and machine learning models. Includes preprocessing, EDA, and deployment-ready script.
-
-### 🔹 [ETL Pipeline with Airflow](https://github.com/MFarhanH/ETL-Airflow-Project)
-An end-to-end data pipeline using Dockerized Airflow. Includes scheduling, validation with Great Expectations, and data visualization in Kibana.
-
-### 🔹 [Supermarket Sales Data Dashboard](https://github.com/MFarhanH/Supermarket-Sales-Dashboard)
-A Tableau dashboard project analyzing product performance, customer patterns, and sales trends.
-
-*(More projects available in the [Repositories Tab](https://github.com/MFarhanH?tab=repositories))*
 
 ---
 
